@@ -8,7 +8,7 @@
 ****Nombre de la tarea*****
 ****------------------*****
 
-Tarea No. 1
+Tarea No. 2
 
 ****---------------------*****
 ****Nombre del estudiante*****
@@ -20,7 +20,7 @@ Kevin Ray Marzola Otero
 ****Fecha de envío*****
 ****--------------*****
 
-Febrero 08 del 2017
+Febrero 22 del 2017
 
 ****--------------------------*****
 ****Instrucciones De Ejecución*****
@@ -32,4 +32,8 @@ Febrero 08 del 2017
 4. Ejecute en linea de comandos mvn compile.
 4. Ejecute en linea de comandos mvn package.
 5. Ejecute java -cp target/PspProgram2-1.0-SNAPSHOT.jar pspprogram2.PspProgram2
+
+Nota: 
+1. Verificar que la versión de java utilizada sea la 1.8
+2. Los archivos que esten dentro de la ruta solo deben ser de extensión .java
 
